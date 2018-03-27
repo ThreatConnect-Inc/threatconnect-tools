@@ -29,6 +29,15 @@ For more information on contributing to this repository, see our [Contributions 
 
 Documentation for the ThreatConnectⓇ App Framework is available here: https://docs.threatconnect.com/en/latest/tcex/tcex.html. The framework provides commonly used Classes and Methods for writing ThreatConnect Apps. The Framework is intended to speed up the development process and ensure Apps contains the core functionality required.
 
+## Other Repositories
+
+We currently provide our customers with four repositories to share your projects with the rest of the ThreatConnect Community.
+
++ [Playbooks & Playbook Apps](https://github.com/ThreatConnect-Inc/threatconnect-playbooks) - For automation and orchestration using our Playbooks capability.
++ [Job Apps](https://github.com/ThreatConnect-Inc/threatconnect-jobs) - For background apps.
++ [Spaces Apps](https://github.com/ThreatConnect-Inc/threatconnect-spaces) - For apps that run in the TheratConnect UI.
++ [Tools & Utilities](https://github.com/ThreatConnect-Inc/threatconnect-tools) - For miscellaneous tools that help other ThreatConnect developers.
+
 ## Contact
 If you have any questions, bugs, or requests please contact support@threatconnect.com.
 
